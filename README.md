@@ -32,7 +32,6 @@ The project consists of the following main classes:
 3. The LRU policy is optimal for recency-based access patterns.
 Adding or removing cache levels is an expensive operation and should be done sparingly.
 
-**
-Future Improvements**
+**Future Improvements**
 1. Implement size-aware eviction to handle variable-sized cache entries.
 2. Add support for time-based expiration of cache entries.
